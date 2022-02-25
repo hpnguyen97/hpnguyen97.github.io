@@ -1138,6 +1138,8 @@
 }
 
 .footer-contact__link {
+    display: block;
+    text-decoration: none;
     color: var(--white-color);
     background-color: #14b9d5;
     border: 1px solid #f1f1f1;
